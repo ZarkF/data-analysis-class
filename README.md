@@ -11,3 +11,4 @@
 | 编号 | 内容 | 文件 |
 | --- | --- | --- |
 | HW01 | Data Types, Functions and Conditionals | [20234080121_曾凯锋_hw01.ipynb](20234080121_曾凯锋_hw01.ipynb) |
+| EXP01 | Python基础与数据处理入门 | [20234080121_曾凯锋_exp01.ipynb](20234080121_曾凯锋_exp01.ipynb) |

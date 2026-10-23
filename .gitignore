@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .DS_Store
+exp01_data/
+student_utils.py
